@@ -1,4 +1,0 @@
-[[edge_functions]]
-  function = "relay"
-  path = "/*"
-  excludedPath = ["/*.css", "/*.js", "/*.jpg", "/*.jpeg", "/*.png", "/*.gif", "/*.svg", "/*.webp", "/*.ico", "/*.json", "/*.xml", "/*.txt", "/*.pdf", "/*.mp4", "/*.webm", "/*.woff", "/*.woff2", "/*.ttf", "/*.eot", "/*.otf"]
